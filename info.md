@@ -22,3 +22,7 @@
 
 *Для получения справки по Git перейдите по ссылке:*
 [https://github.com/netology-code/guides/blob/master/git-basics/GitCommandGuide.md]()
+
+## Основные команды 2-го семинара:
+
+
