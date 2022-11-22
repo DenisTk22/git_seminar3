@@ -32,3 +32,5 @@
 > git branch - посмотреть список веток в репозитории.
 
 > git branch <branch_name> - создание ветки с названием branch_name.
+
+> git checkout <branch_name> - переход к ветке с именем branch_name.
