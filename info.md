@@ -32,3 +32,5 @@
 > git branch - посмотреть список веток в репозитории.
 
 > git branch <branch_name> - создание ветки с названием branch_name.
+
+> git branch -d <branch_name> - удалить ветку с именем branch_name
