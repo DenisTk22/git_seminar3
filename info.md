@@ -42,3 +42,5 @@
 > git merge <branch_name> - слияние ветки с именем branch_name с текущей веткой. 
 
 > git merge --abort - отмена слияния, которое прошло с конфликтом.
+
+> git checkout -b <branch_name> - создание ветки и переход к ней.
