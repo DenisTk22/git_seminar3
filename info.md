@@ -38,3 +38,5 @@
 > git branch -d <branch_name> - удалить ветку с именем branch_name.
 
 > git log --graph - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме.
+
+> git merge <branch_name> - слияние ветки с именем branch_name с текущей веткой. 
